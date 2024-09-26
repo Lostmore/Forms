@@ -1,0 +1,133 @@
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\bin\Debug\17..20.mdb
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Delete.resources
+C:\Users\sasha\OneDrive\Рабочий стол\FormMovie\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Edit.resources
+E:\FormMovie\FormMovie\bin\Debug\17..20.mdb
+E:\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+E:\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+E:\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+E:\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Delete.resources
+E:\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Edit.resources
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+E:\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+F:\FormMovie\FormMovie\bin\Debug\17..20.mdb
+F:\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+F:\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+F:\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+F:\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Delete.resources
+F:\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Edit.resources
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+F:\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\bin\Debug\17..20.mdb
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Edit.resources
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+C:\Users\sasha\OneDrive\Рабочий стол\афыаыфафф\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+G:\МДК 02.02\FormMovie\FormMovie\bin\Debug\17..20.mdb
+G:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+G:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+G:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.SuggestedBindingRedirects.cache
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FilmExplorerPro.Edit.resources
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+G:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+E:\МДК 02.02\FormMovie\FormMovie\bin\Debug\17..20.mdb
+E:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+E:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+E:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+E:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Zapros2.resources
+F:\МДК 02.02\FormMovie\FormMovie\bin\Debug\17..20.mdb
+F:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+F:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+F:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.SuggestedBindingRedirects.cache
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Zapros2.resources
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+F:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+D:\МДК 02.02\FormMovie\FormMovie\bin\Debug\17..20.mdb
+D:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+D:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+D:\МДК 02.02\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.Zapros2.resources
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+D:\МДК 02.02\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+D:\FormMovie\FormMovie\bin\Debug\17..20.mdb
+D:\FormMovie\FormMovie\bin\Debug\FormMovie.exe.config
+D:\FormMovie\FormMovie\bin\Debug\FormMovie.exe
+D:\FormMovie\FormMovie\bin\Debug\FormMovie.pdb
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.Add.resources
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.Main.resources
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.exe
+D:\FormMovie\FormMovie\obj\Debug\FormMovie.pdb
+C:\Users\sasha\source\repos\Forms\FormMovie\bin\Debug\17..20.mdb
+C:\Users\sasha\source\repos\Forms\FormMovie\bin\Debug\FormMovie.exe.config
+C:\Users\sasha\source\repos\Forms\FormMovie\bin\Debug\FormMovie.exe
+C:\Users\sasha\source\repos\Forms\FormMovie\bin\Debug\FormMovie.pdb
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.Add.resources
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.Main.resources
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.Properties.Resources.resources
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.exe
+C:\Users\sasha\source\repos\Forms\FormMovie\obj\Debug\FormMovie.pdb
